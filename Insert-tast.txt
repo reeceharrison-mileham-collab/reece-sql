@@ -1,0 +1,5 @@
+INSERT INTO tasks (description, due_date)
+VALUES ('Finish reece-sql task', '2026-01-25');
+
+INSERT INTO tasks (description, due_date, status)
+VALUES ('Review schema constraints', '2026-01-22', 'in_progress');

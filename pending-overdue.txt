@@ -1,0 +1,2 @@
+SELECT id, description, due_date, status, created_at
+FROM tasks where status = "pending" or status ="pending";
